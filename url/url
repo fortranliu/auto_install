@@ -1,0 +1,14 @@
+url                                                                |  dir         |  name
+http://10.129.16.19/owncloud/index.php/s/PBb20hdcc109ybK/download  |  config      |  mentohust.conf
+http://10.129.16.19/owncloud/index.php/s/Nk6ltfhdiICb4y3/download  |  config      |  my_vimrc
+http://10.129.16.19/owncloud/index.php/s/11NfHi2hxKnFQ69/download  |  config      |  sources_uestc.list
+http://10.129.16.19/owncloud/index.php/s/m4pHyR1ItKiSoiV/download  |  deb         |  lapack-3.5.0.tar.gz
+http://10.129.16.19/owncloud/index.php/s/O4ph3EoCSERAXtx/download  |  deb         |  mentohust_0.3.4-1_amd64.deb
+http://10.129.16.19/owncloud/index.php/s/v1anZV60ByDLyri/download  |  deb         |  mpich-3.1.3.tar.gz
+http://10.129.16.19/owncloud/index.php/s/gqpTy8o7cMchJIk/download  |  deb         |  tec360_LINUX64.tar.gz
+http://10.129.16.19/owncloud/index.php/s/Z25seNNn6qWJVwE/download  |  iso         |  texlive.tar.gz.aa
+http://10.129.16.19/owncloud/index.php/s/4mXQM1bLZDWTdKi/download  |  iso         |  texlive.tar.gz.ab
+http://10.129.16.19/owncloud/index.php/s/B274h9sgX3RJ5b0/download  |  iso         |  texlive.tar.gz.ac
+http://10.129.16.19/owncloud/index.php/s/bWPDBp65pCB0wQy/download  |  lib         |  liblapackblas.tar.gz
+http://10.129.16.19/owncloud/index.php/s/K4qNI3NhcsvH92H/download  |  statement   |  statement
+http://10.129.16.19/owncloud/index.php/s/g5Q3pE4fMm3ZKeQ/download  |  winfonts    |  ziti.tar.gz
