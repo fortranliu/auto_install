@@ -1,0 +1,22 @@
+    0         source                  |   1 电子科大；2 中科大
+    1         bash                    |   /etc/bash.bashrc or ~/.bashrc
+    0         cmatrix                 |
+    0         iptux                   |
+    0         gfortran                |
+    0         g++                     |   g++
+    0         vim                     |
+    0         mentohust               |
+    1         tec360                  |
+    0         texlive                 |   texlive & ctex & zhongwen
+    0         git                     |
+    0         openssh-server          |   ssh
+    0         gdb                     |
+    0         lapack                  |   lapack & blas
+    0         mpi                     |
+    0         nautilus-open-terminal  |   nautilus-open-terminal在文件夹中右键打开终端
+    0         java                    |
+    0         petsc                   |   
+    0         chromium-browser        |   chrome
+    0         kate                    |
+    0         petsc                   |
+------------------------------------------------------------------------------------
